@@ -279,7 +279,7 @@ Sketch는 오프라인이 디폴트고 로컬에서 파일을 쌓아서 쓰는 �
 
 ![hello 2020, bye-bye 2019](img/2020.jpg)
 
-<figcaption>hello 2020, bye-bye 2019!</figcaption>
+<figcaption>hello 2020, bye-bye 2019! @mmmg</figcaption>
 
 # 🙋‍♀️ 마지막으로 채용 공고 홍보!
 
