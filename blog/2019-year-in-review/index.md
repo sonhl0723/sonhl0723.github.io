@@ -164,10 +164,10 @@ order: 9
 
 ## 📘 6월에 읽은 책
 
-- ['나'라는 브랜드]()
-- [여자 둘이 살고 있습니다]()
-- [연애하지 않을 권리]()
-- [나는 내 파이를 구할 뿐 인류를 구하러 온 게 아니라고]()
+- ['나'라는 브랜드](http://www.yes24.com/Product/Goods/61301678)
+- [여자 둘이 살고 있습니다](https://select.ridibooks.com/book/734001720)
+- [연애하지 않을 권리](https://select.ridibooks.com/book/1775000071)
+- [나는 내 파이를 구할 뿐 인류를 구하러 온 게 아니라고](https://ridibooks.com/books/2016000103)
 
 # 7월
 
@@ -216,7 +216,7 @@ ttcc라는 탁구 동호회의 로고와 티셔츠 디자인을 진행했다. ~~
 
 ## 📘 8월에 읽은 책
 
-- [하면 좋습니까?]()
+- [하면 좋습니까?](https://select.ridibooks.com/book/734001798)
 
 # 9월
 
@@ -232,7 +232,7 @@ Sketch는 오프라인이 디폴트고 로컬에서 파일을 쌓아서 쓰는 �
 
 ## 📘 9월에 읽은 책
 
-- [여자라는 문제]()
+- [여자라는 문제](https://select.ridibooks.com/book/1558000197)
 
 # 10월
 
@@ -252,8 +252,8 @@ Sketch는 오프라인이 디폴트고 로컬에서 파일을 쌓아서 쓰는 �
 
 ## 📘 11월에 읽은 책
 
-- [파워풀]()
-- [독서 천재가 된 홍 팀장]()
+- [파워풀](https://select.ridibooks.com/book/703000424)
+- [독서 천재가 된 홍 팀장](https://select.ridibooks.com/book/372001499)
 - [꼭 필요한 만큼의 리서치](http://www.yes24.com/Product/Goods/45514761)
 
 # 12월
