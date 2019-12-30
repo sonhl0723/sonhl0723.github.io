@@ -15,12 +15,6 @@ order: 9
 
 2019년은 회사를 쉬진 않았지만 내가 지정한 안식년이었다. 작년보다 디자이너로서 활동은 많이 하지 않았다. 그렇다 보니 올해 연말 정산 글은 디자이너로서의 이야기보다 개인적인 이야기들이 더 많을 것 같다.
 
-# 🙋‍♀️ 들어가기 앞서
-
-RIDI에서 디지털 프로덕트 디자이너를 뽑고 있습니다! 자세한 채용 공고가 궁금하시다면 아래 이미지를 클릭해 주세요! 👇
-
-<a href="http://bit.ly/2qoo3wp">![RIDI 디지털 프로덕트 디자이너 채용](https://cdn.dribbble.com/users/291872/screenshots/5483004/ridi-digital-product-designer.jpg)
-
 # 1월
 
 ## 🧘‍♀️ 요가
@@ -286,3 +280,9 @@ Sketch는 오프라인이 디폴트고 로컬에서 파일을 쌓아서 쓰는 �
 ![hello 2020, bye-bye 2019](img/2020.jpg)
 
 <figcaption>hello 2020, bye-bye 2019!</figcaption>
+
+# 🙋‍♀️ 마지막으로 채용 공고 홍보!
+
+RIDI에서 디지털 프로덕트 디자이너를 뽑고 있습니다! 자세한 채용 공고가 궁금하시다면 아래 이미지를 클릭해 주세요! 👇
+
+<a href="http://bit.ly/2qoo3wp">![RIDI 디지털 프로덕트 디자이너 채용](https://cdn.dribbble.com/users/291872/screenshots/5483004/ridi-digital-product-designer.jpg)
