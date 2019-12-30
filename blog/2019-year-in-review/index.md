@@ -15,6 +15,12 @@ order: 9
 
 2019년은 회사를 쉬진 않았지만 내가 지정한 안식년이었다. 작년보다 디자이너로서 활동은 많이 하지 않았다. 그렇다 보니 올해 연말 정산 글은 디자이너로서의 이야기보다 개인적인 이야기들이 더 많을 것 같다.
 
+# 🙋‍♀️ 들어가기 앞서
+
+RIDI에서 디지털 프로덕트 디자이너를 뽑고 있습니다! 자세한 채용 공고가 궁금하시다면 아래 이미지를 클릭해 주세요! 👇
+
+<a href="http://bit.ly/2qoo3wp">![RIDI 디지털 프로덕트 디자이너 채용](https://cdn.dribbble.com/users/291872/screenshots/5483004/ridi-digital-product-designer.jpg)
+
 # 1월
 
 ## 🧘‍♀️ 요가
@@ -75,7 +81,7 @@ order: 9
 
 내년엔 또 어떤 글을 10개월에 걸쳐 써낼지 궁금하다. 👀
 
-<a href="http://jihyeleee.com/project/highlight-img-share/">![](http://jihyeleee.com/project/img/ridi-highlight.jpg)</a>
+<a href="http://jihyeleee.com/project/highlight-img-share/">![이미지 멋지게 공유하기](http://jihyeleee.com/project/img/ridi-highlight.jpg)</a>
 
 ## 📘 2월에 읽은 책
 
