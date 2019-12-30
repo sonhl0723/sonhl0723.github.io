@@ -189,7 +189,7 @@ order: 9
 
 ### 프로토타입 👇
 
-<iframe style="border: none;" width="800" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FH6FV2Qshzm37UVQoN7OgLJ%2F%25F0%259F%258F%2593-MatchPoint%3Fnode-id%3D1%253A11%26scaling%3Dscale-down" allowfullscreen></iframe>
+<iframe style="border: none;" width="100%" height="700" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FH6FV2Qshzm37UVQoN7OgLJ%2F%25F0%259F%258F%2593-MatchPoint%3Fnode-id%3D1%253A11%26scaling%3Dscale-down" allowfullscreen></iframe>
 # 8월
 
 ## 📱 Interface Lovers에 푹 빠지다
