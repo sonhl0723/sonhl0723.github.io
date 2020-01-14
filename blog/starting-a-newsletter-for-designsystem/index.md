@@ -7,7 +7,7 @@ blog: true
 text: true
 author: "Jihye Leee"
 post-header: true
-header-img: "https://images.unsplash.com/photo-1517816428104-797678c7cf0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2850&q=80"
+header-img: "img/header.jpg"
 order: 10
 ---
 
