@@ -12,7 +12,7 @@ description: Jihye Leee, who is a Digital Product Designer based in Seoul, South
     </h1>
     <h1 class="intro">a Digital Product Designer.
     </h1>
-    <h2 class="intro">디지털 프로덕트 디자이너 이지혜입니다.</h2>
+    <h2 class="intro">프로덕트 디자이너 이지혜입니다.</h2>
 </section>
 </div>
 {% include resume.html %}
