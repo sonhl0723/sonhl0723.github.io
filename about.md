@@ -3,7 +3,7 @@ layout: post
 title: "Jihye Leee"
 subtitle: "이지혜"
 type: "About"
-author: "Jihye Lee"
+author: "Hongil Son"
 permalink: /about/
 post-header: true
 header-img: img/about.jpg
