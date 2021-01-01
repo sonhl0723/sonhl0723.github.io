@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Jihye Leee"
+title: "Hongil Son"
 main: true
-subtitle: Digital Product Designer Jihye Leee
-description: Jihye Leee, who is a Digital Product Designer based in Seoul, South Korea. | '이지혜' 디지털 프로덕트 디자이너입니다.
+subtitle: Student
+description: 내 인생을 정리
 ---
 <div class="intro-animation">
 <section class="explanation">
     <h1 class="intro">
-    I'm Jihye Leee,
+    손홍일
     </h1>
-    <h1 class="intro">a Digital Product Designer.
+    <h1 class="intro">Hongber
     </h1>
-    <h2 class="intro">프로덕트 디자이너 이지혜입니다.</h2>
+    <h2 class="intro">가즈아</h2>
 </section>
 </div>
 {% include resume.html %}
