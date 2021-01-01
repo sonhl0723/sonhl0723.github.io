@@ -10,9 +10,7 @@ description: 내 인생을 정리
     <h1 class="intro">
     손홍일
     </h1>
-    <h1 class="intro">Hongber
-    </h1>
-    <h2 class="intro">가즈아</h2>
+    <h2 class="intro">나를 소개하기</h2>
 </section>
 </div>
 {% include resume.html %}
