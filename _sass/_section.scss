@@ -7,6 +7,10 @@
 
 section.explanation {
     padding-top: 40px;
+    background-size: 30% 300px;
+    background-repeat: no-repeat;
+    background-image: url('home_bg.jpg');
+    background-position: right top;
     
     @media (max-width: $break-small) {
         padding-top: 20px;

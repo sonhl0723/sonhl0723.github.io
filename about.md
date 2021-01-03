@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "Jihye Leee"
-subtitle: "이지혜"
+title: "Hongil Son"
+subtitle: "손홍일"
 type: "About"
 author: "Hongil Son"
 permalink: /about/
 post-header: true
-header-img: img/about.jpg
+header-img: img/who_am_i.jpg
 ---
 
 UX 에이전시 GUI 디자이너를 거쳐 RIDI에서 6년 가까이 일했습니다. 디자이너에게 코딩을 알려주는 코딩하는 디자이너라는 프로그램을 운영하고 브랜딩하기도 했습니다. 더 좋은 디자인 문화 만들기와 디자이너의 글쓰기에 관심이 많습니다.
