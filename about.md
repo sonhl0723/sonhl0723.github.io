@@ -11,7 +11,7 @@ header-img: img/who_am_i.jpg
 
 학생입니다. 취업하고 싶다.
 
-# Media
+<!-- # Media
 ### Design Spectrum의 팟캐스트 Design Table
 
 - Design Table Ep 19. `끊임없이 배우는 디자이너`
@@ -31,4 +31,4 @@ header-img: img/who_am_i.jpg
 - [코딩하는 디자이너를 말하다](http://14.49.34.137/?p=3216)
 - [이지혜 DXD세미나 운영진 “코딩은 또 하나의 즐거움”](http://14.49.34.137/?p=3207)
 
-<br />
+<br /> -->

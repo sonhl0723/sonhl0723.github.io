@@ -4,10 +4,11 @@
 .post-header {
     background-position: center center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: auto;
     width: 100%;
     min-height: 360px;
-    background-color: $grey-2;
+    // background-color: $grey-2;
+    background-color: #fff;
     
     @media (max-width: $break-small) {
         min-height: 200px;
