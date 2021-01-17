@@ -3,12 +3,12 @@
 
 .post-header {
     background-position: center center;
-    background-repeat: no-repeat;
-    background-size: auto;
+    background-repeat: repeat;
+    background-size: contain;;
     width: 100%;
     min-height: 360px;
     // background-color: $grey-2;
-    background-color: #fff;
+    // background-color: #fff;
     
     @media (max-width: $break-small) {
         min-height: 200px;

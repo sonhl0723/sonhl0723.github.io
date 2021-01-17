@@ -6,7 +6,7 @@ type: "About"
 author: "Hongil Son"
 permalink: /about/
 post-header: true
-header-img: img/who_am_i.jpg
+header-img: img/my_picture.jpg
 ---
 
 학생입니다. 취업하고 싶다.
